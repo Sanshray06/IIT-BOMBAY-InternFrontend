@@ -1,0 +1,10 @@
+.background {
+  background-image: url("../components/pexels-padrinan-68562.jpg");
+ /* Adjust the path as needed */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh; /* Adjust height as needed */
+  display: flex;
+  flex-direction: column;/* Adjust height as needed */
+}
